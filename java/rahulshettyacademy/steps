@@ -1,0 +1,99 @@
+step1- Invoke Chrome driver-using weBdriver manager without having chromedriver  in local
+and for that we need some dependencies in pom.xml...		WebDriverManager.chromedriver().setup();
+ hit url login
+ 
+ get all the items list and iterate through list and verify fo which product titl e is display then capture the product
+ find out generic element
+ find out common locator
+ generate css using classname== .classname
+ 
+ stream will help u iterate through each and every item in the list
+ when we do product . seacrh scope will be inside that section only
+
+parent to child traverse
+.card-body button
+
+when we do driver.findelement it will scan eentrie pagfe
+
+if element is not interactable that means it is not there on scrreen or it disappears right after
+
+regular expression= [routerlink*='cart'] with partial linlketxt
+
+
+//26 april	complete section 19 and section 20
+//27april		section 21 and section22
+//28april		section 23 section 24 section 25
+//29april		27 28 29
+//30april		30
+//THIS IS MY ONLY WAY OUT
+
+
+for sending driver from standalone to landing page we will create a
+ constructor sp if anyone try to crate obj of landing page first constructor will be executed
+
+
+
+
+
+
+
+
+paralley run
+java classes run paralley or java methods run paralley
+
+
+
+
+
+
+
+--Timings--
+
+11-1:30		2.5hr  
+2:30-7:30	5hr
+9-12		3hr 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ASDDFGGHJ
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,117 @@
+step1- Invoke Chrome driver-using weBdriver manager without having chromedriver  in local
+and for that we need some dependencies in pom.xml...		WebDriverManager.chromedriver().setup();
+ hit url login
+ 
+ get all the items list and iterate through list and verify fo which product titl e is display then capture the product
+ find out generic element
+ find out common locator
+ generate css using classname== .classname
+ 
+ stream will help u iterate through each and every item in the list
+ when we do product . seacrh scope will be inside that section only
+
+parent to child traverse
+.card-body button
+
+when we do driver.findelement it will scan eentrie pagfe
+
+if element is not interactable that means it is not there on scrreen or it disappears right after
+
+regular expression= [routerlink*='cart'] with partial linlketxt
+
+
+
+
+for sending driver from standalone to landing page we will create a
+ constructor sp if anyone try to crate obj of landing page first constructor will be executed
+
+
+
+
+
+
+
+
+paralley run
+java classes run paralley or java methods run paralley
+
+
+
+how to drive data from json
+
+
+
+--Timings--
+
+11-1:30		2.5hr  
+2:30-7:30	5hr
+9-12		3hr 
+
+
+
+
+AZSSSFBNUTYGHJIU
+
+
+
+WS6L9D,9 8MK.LGBO,8N OINBT G FVFFFEERRTTTTYYYYYYYYYYYYYYTGGGGVGVGVGVGVGVVVVVCZD FCCXDCCXXFNHHJBGIJBG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ASDDFGGHJ
+
+
+
+for report handling you need to setup meta data like creating extent spark reporter class object document ttile
+
+
+download maven binary
+export it in c program files maven
+set environment variables- c path and path as Maven_HOME%/bin in path
+cmd- mvn -version
+install plugin maven plugin and copy and paste it in pom .xml
+
+save for multiple files
+
+download jenkins . war
+the from command prompt java -jar jenkins.war -httpPort=8080
+then open it in browser
+
+
+to run test from cmd    mvn test -PRegression
+
+to run in firefox or chrome from cmd -------mvn test -Dbrowser=Chrome
+
+**********************************
+Git stores automation code
+Jenkins pulls latest code
+Maven executes framework
+TestNG controls suite execution
+Selenium launches browser dynamically
+Reports generated
+Jenkins publishes reports and notifications
+***************************************
+
+interview question from keyword in cucumber scenario feature feature file scenaio outline,step defination
+
+
+for cucumber integration with selenium 
+we download cucumber java and cucumber taestng from maven and paste it in pom
+create package and download plugi cucumber from market place for featyre file
+
