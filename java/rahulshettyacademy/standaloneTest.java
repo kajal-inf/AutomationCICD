@@ -72,7 +72,7 @@ public class standaloneTest {
 		// put assertion to check if text appearys
 		String confrmmess = driver.findElement(By.cssSelector(".hero-primary")).getText();
 		Assert.assertTrue(confrmmess.equalsIgnoreCase("THANKYOU FOR THE ORDER."));
-
+//new comments are added
 	}
 
 }
